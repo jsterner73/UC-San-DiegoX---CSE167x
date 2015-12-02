@@ -1,0 +1,16 @@
+﻿Build started 17.08.2015 13:46:42.
+     1>Project "C:\Users\03JOST99\Documents\GitHub\UC San DiegoX---CSE167x\hw1-windows_VS2012\hw1-windows\hw1-windows.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /wd4101 /wd4099 /wd4819 /wd4996 /wd4305 /wd4018 /analyze- /errorReport:prompt Transform.cpp
+         Transform.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\03JOST99\Documents\GitHub\UC San DiegoX---CSE167x\hw1-windows_VS2012\Debug\hw1-windows.exe" /INCREMENTAL /NOLOGO /LIBPATH:.\lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib glew32.lib glut32.lib glu32.lib opengl32.lib FreeImage.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\03JOST99\Documents\GitHub\UC San DiegoX---CSE167x\hw1-windows_VS2012\Debug\hw1-windows.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\03JOST99\Documents\GitHub\UC San DiegoX---CSE167x\hw1-windows_VS2012\Debug\hw1-windows.lib" /MACHINE:X86 Debug\main.obj
+         Debug\shaders.obj
+         Debug\Transform.obj
+         Debug\grader.obj
+         hw1-windows.vcxproj -> C:\Users\03JOST99\Documents\GitHub\UC San DiegoX---CSE167x\hw1-windows_VS2012\Debug\hw1-windows.exe
+     1>Done Building Project "C:\Users\03JOST99\Documents\GitHub\UC San DiegoX---CSE167x\hw1-windows_VS2012\hw1-windows\hw1-windows.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.57
